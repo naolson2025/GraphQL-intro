@@ -3,19 +3,13 @@
     {
       "id": 21,
       "firstName": "John",
-      "age": 20,
+      "age": 500,
       "companyId": "1"
     },
     {
       "id": 22,
       "firstName": "Alex",
       "age": 40,
-      "companyId": "2"
-    },
-    {
-      "id": 23,
-      "firstName": "Nick",
-      "age": 38,
       "companyId": "2"
     },
     {
